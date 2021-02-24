@@ -1,0 +1,310 @@
+Tue Apr 21 23:01:39 2015  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Tue Apr 21 23:01:39 2015  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Tue Apr 21 23:01:39 2015  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Tue Apr 21 23:01:39 2015  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Tue Apr 21 23:01:39 2015  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:01:39 2015  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Tue Apr 21 23:01:39 2015  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Tue Apr 21 23:01:39 2015  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Tue Apr 21 23:01:39 2015  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Tue Apr 21 23:01:39 2015  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:01:39 2015  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Tue Apr 21 23:01:39 2015  [ALWAYS]: Looging ostringstream using Direct Interface
+Tue Apr 21 23:01:39 2015  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [TRACE]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Looging ostringstream using C++ Interface
+Tue Apr 21 23:01:39 2015  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [TRACE]: 
+	My Contact Details:
+	Name: Pankaj Chooudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:01:39 2015  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
+Tue Apr 21 23:02:56 2015  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Tue Apr 21 23:02:56 2015  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Tue Apr 21 23:02:56 2015  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Tue Apr 21 23:02:56 2015  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Tue Apr 21 23:02:56 2015  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:02:56 2015  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Tue Apr 21 23:02:56 2015  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Tue Apr 21 23:02:56 2015  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Tue Apr 21 23:02:56 2015  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Tue Apr 21 23:02:56 2015  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:02:56 2015  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Tue Apr 21 23:05:00 2015  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Tue Apr 21 23:05:00 2015  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Tue Apr 21 23:05:00 2015  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Tue Apr 21 23:05:00 2015  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Tue Apr 21 23:05:00 2015  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:05:00 2015  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Tue Apr 21 23:05:00 2015  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Tue Apr 21 23:05:00 2015  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Tue Apr 21 23:05:00 2015  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Tue Apr 21 23:05:00 2015  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:05:00 2015  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Tue Apr 21 23:06:44 2015  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Tue Apr 21 23:06:44 2015  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Tue Apr 21 23:06:44 2015  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Tue Apr 21 23:06:44 2015  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Tue Apr 21 23:06:44 2015  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:06:44 2015  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Tue Apr 21 23:06:44 2015  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Tue Apr 21 23:06:44 2015  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Tue Apr 21 23:06:44 2015  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Tue Apr 21 23:06:44 2015  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Tue Apr 21 23:06:44 2015  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Tue Apr 21 23:07:22 2015  [ALWAYS]: Logging ostringstream using Direct Interface
+Tue Apr 21 23:08:53 2015  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:08:59 2015  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:09:00 2015  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue Apr 21 23:10:23 2015  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Tue May 05 20:48:43 2015  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Tue May 05 20:48:43 2015  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Tue May 05 20:48:43 2015  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Tue May 05 20:48:43 2015  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Tue May 05 20:48:43 2015  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Tue May 05 20:48:43 2015  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Tue May 05 20:48:43 2015  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Tue May 05 20:48:43 2015  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Tue May 05 20:48:43 2015  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Tue May 05 20:48:43 2015  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Tue May 05 20:48:43 2015  [ALWAYS]: Logging ostringstream using Direct Interface
+Tue May 05 20:48:43 2015  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 20:48:43 2015  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
+Tue May 05 21:01:49 2015  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Tue May 05 21:01:49 2015  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Tue May 05 21:01:49 2015  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Tue May 05 21:01:49 2015  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Tue May 05 21:01:49 2015  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Tue May 05 21:01:49 2015  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Tue May 05 21:01:49 2015  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Tue May 05 21:01:49 2015  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Tue May 05 21:01:49 2015  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Tue May 05 21:01:49 2015  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Tue May 05 21:01:49 2015  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Tue May 05 21:01:49 2015  [ALWAYS]: Logging ostringstream using Direct Interface
+Tue May 05 21:01:49 2015  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Tue May 05 21:01:49 2015  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
